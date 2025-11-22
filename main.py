@@ -3,6 +3,13 @@ Firm Resource Allocation Optimization (ECOS-forced)
 Team: Cute Force
 Members: Potini Sahiti, Navya Sharma, D. Sreeteja
 """
+
+import sys
+import cvxpy as cp
+import numpy as np
+import matplotlib.pyplot as plt
+
+
 #____________________ECOS CHECK___________________________________
 
 
